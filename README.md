@@ -1,2 +1,0 @@
-# helllos
-first rpository
